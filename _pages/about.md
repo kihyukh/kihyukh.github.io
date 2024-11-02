@@ -50,6 +50,30 @@ Teaching
 
 Education
 ======
+- PhD Statistics. University of Michigan.
+- MS Statistics. Stanford University.
+- BS Biomedical Engineering & Applied Math.
 
 Professional Experience
 ======
+- Machine Learning Enigineer. Naver. Nov2013 - Apr 2020.
+- Software Engineer. Meta. Aug 2010 - Nov 2013.
+
+Services
+======
+**Conference Reviewer**
+- International Conference on Artificial Intelligence and Statistics (AISTATS): 2022, 2023, 2024
+
+**Journal Reviewer**
+- Journal of Machine Learning Research (JMLR) : 1 time.
+- Statistical Science : 2 times.
+
+Awards
+======
+- Outstanding PhD, Statistics Department, University of Michigan. 2021
+- Samsung scholarship (full scholarship $100,000) for master’s studies. 2008
+- Honorable mention in Putnam Math Competition. 2007
+- The Mathematical Modeling Competition Prize, Johns Hopkins University. 2007
+- 1st place in Johns Hopkins ACM programming contest, Johns Hopkins University. 2006, 2007
+- Samsung scholarship (full scholarship $200,000) for undergraduate studies. 2004
+- 1st place in Korean Math Olympiad. 2002
