@@ -22,10 +22,10 @@ Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
 1. [A Primal-Dual Algorithm for Offline Constrained Reinforcement Learning with Linear MDPs](https://arxiv.org/abs/2402.04493)
 **Kihyuk Hong**, Ambuj Tewari
 *International Conference on Machine Learning (ICML), 2024*
-1. [A primal-dual-critic algorithm for offline constrained reinforcement learning](https://arxiv.org/abs/2306.07818)
+1. [A Primal-Dual-Critic Algorithm for Offline Constrained Reinforcement Learning](https://arxiv.org/abs/2306.07818)
 **Kihyuk Hong**, Yuhang Li, Ambuj Tewari
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2024*
-1. [An optimization-based algorithm for non-stationary kernel bandits without prior knowledge](https://arxiv.org/abs/2205.14775)
+1. [An Optimization-Based Algorithm for Non-Stationary Kernel Bandits without Prior Knowledge](https://arxiv.org/abs/2205.14775)
 **Kihyuk Hong**, Yuhang Li, Ambuj Tewari
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2023*
 
