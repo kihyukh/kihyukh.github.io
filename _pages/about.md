@@ -67,6 +67,9 @@ Services
 - Journal of Machine Learning Research (JMLR) : 1 time.
 - Statistical Science : 2 times.
 
+**Organizer**
+- Department Representative, Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS), University of Michigan. 2023.
+
 Awards
 ======
 - Outstanding PhD, Statistics Department, University of Michigan. 2021
