@@ -11,7 +11,7 @@ I am a final year PhD student in the **Statistics Department** at the **Universi
 
 My research interests are broadly in design and analysis of algorithms for sequential decision making under uncertainty. Specific areas of interest include: non-stationary bandits, offline reinforcement learning, constrained reinforcement learning. Currently, I am interested in preference learning and preference aggregation in the context of RLHF.
 
-In Submission
+Publications
 ======
 1. [Learning Infinite-Horizon Average-Reward Linear Mixture MDPs of Bounded Span](https://arxiv.org/abs/2410.14992)
 Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
@@ -19,9 +19,6 @@ Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
 1. [Reinforcement Learning for Infinite-Horizon Average-Reward Linear MDPs via Approximation by Discounted-Reward MDPs](https://arxiv.org/abs/2405.15050)
 **Kihyuk Hong**, Woojin Chae, Yufan Zhang, Dabeen Lee, Ambuj Tewari
 *In Submission, 2024*
-
-Publications
-======
 1. [A Primal-Dual Algorithm for Offline Constrained Reinforcement Learning with Linear MDPs](https://arxiv.org/abs/2402.04493)
 **Kihyuk Hong**, Ambuj Tewari
 *International Conference on Machine Learning (ICML), 2024*
