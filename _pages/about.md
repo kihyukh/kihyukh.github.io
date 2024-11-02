@@ -13,22 +13,22 @@ My research interests are broadly in design and analysis of algorithms for seque
 
 In Submission
 ======
-1. Learning Infinite-Horizon Average-Reward Linear Mixture MDPs of Bounded Span
+1. [Learning Infinite-Horizon Average-Reward Linear Mixture MDPs of Bounded Span](https://arxiv.org/abs/2410.14992)
 Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
 *In Submission, 2024*
-1. Reinforcement Learning for Infinite-Horizon Average-Reward Linear MDPs via Approximation by Discounted-Reward MDPs
+1. [Reinforcement Learning for Infinite-Horizon Average-Reward Linear MDPs via Approximation by Discounted-Reward MDPs](https://arxiv.org/abs/2405.15050)
 **Kihyuk Hong**, Woojin Chae, Yufan Zhang, Dabeen Lee, Ambuj Tewari
 *In Submission, 2024*
 
 Publications
 ======
-1. A Primal-Dual Algorithm for Offline Constrained Reinforcement Learning with Linear MDPs
+1. [A Primal-Dual Algorithm for Offline Constrained Reinforcement Learning with Linear MDPs](https://arxiv.org/abs/2402.04493)
 **Kihyuk Hong**, Ambuj Tewari
 *International Conference on Machine Learning (ICML), 2024*
-1. A primal-dual-critic algorithm for offline constrained reinforcement learning
+1. [A primal-dual-critic algorithm for offline constrained reinforcement learning](https://arxiv.org/abs/2306.07818)
 **Kihyuk Hong**, Yuhang Li, Ambuj Tewari
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2024*
-1. An optimization-based algorithm for non-stationary kernel bandits without prior knowledge
+1. [An optimization-based algorithm for non-stationary kernel bandits without prior knowledge](https://arxiv.org/abs/2205.14775)
 **Kihyuk Hong**, Yuhang Li, Ambuj Tewari
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2023*
 
