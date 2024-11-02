@@ -32,14 +32,21 @@ Publications
 
 Talks
 ======
-1. 1
-1. 1
+1. An algorithm for infinite-horizon average reward RL with linear MDPs. RL Theory Workshop. Jun 2024.
+1. Introduction to reinforcement learning, guest lecture for STATS 503, University of Michigan. May 2023.
 
 Mentoring
 ======
+- Yuhang Li, 06/2022 – 09/2023. Published 2 papers together.
+- Yufan Zhang, 02/2024 – 08/2024. Published 2 papers together.
 
 Teaching
 ======
+- Teaching assistant, Regression analysis (STATS 600), University of Michigan. Fall 2024
+- Teaching assistant, Regression analysis (STATS 600), University of Michigan. Fall 2023
+- Teaching assistant, Introduction to data science (STATS 206), University of Michigan. Fall 2021
+- Teaching assistant, Survey sampling techniques (STATS 480), University of Michigan. Winter 2021
+- Teaching assistant, Introduction to statistics and data analysis (STATS 250), University of Michigan. Fall 2020
 
 Education
 ======
