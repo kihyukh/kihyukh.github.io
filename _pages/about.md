@@ -51,7 +51,7 @@ Education
 ======
 - PhD Statistics. University of Michigan.
 - MS Statistics. Stanford University.
-- BS Biomedical Engineering & Applied Math.
+- BS Biomedical Engineering & Applied Math. Johns Hopkins University.
 
 Professional Experience
 ======
