@@ -41,6 +41,7 @@ Mentoring
 
 Teaching
 ======
+- Teaching assistant, Applied regression analysis (STATS 413), University of Michigan. Winter 2025
 - Teaching assistant, Regression analysis (STATS 600), University of Michigan. Fall 2024
 - Teaching assistant, Regression analysis (STATS 600), University of Michigan. Fall 2023
 - Teaching assistant, Introduction to data science (STATS 206), University of Michigan. Fall 2021
