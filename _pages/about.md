@@ -31,6 +31,7 @@ Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
 
 Talks
 ======
+1. University of Michigan. Statistics Department Seminar. Dec 2024.
 1. An algorithm for infinite-horizon average reward RL with linear MDPs. RL Theory Workshop. Jun 2024.
 1. Introduction to reinforcement learning, guest lecture for STATS 503, University of Michigan. May 2023.
 
