@@ -13,11 +13,14 @@ My research interests are broadly in design and analysis of algorithms for seque
 
 Publications
 ======
-1. [Learning Infinite-Horizon Average-Reward Linear Mixture MDPs of Bounded Span](https://arxiv.org/abs/2410.14992)
-Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
-*In Submission, 2024*
+1. A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs
+**Kihyuk Hong**, Ambuj Tewari
+*In Submission, 2025*
 1. [Reinforcement Learning for Infinite-Horizon Average-Reward Linear MDPs via Approximation by Discounted-Reward MDPs](https://arxiv.org/abs/2405.15050)
 **Kihyuk Hong**, Woojin Chae, Yufan Zhang, Dabeen Lee, Ambuj Tewari
+*International Conference on Artificial Intelligence and Statistics (AISTATS), 2025*
+1. [Learning Infinite-Horizon Average-Reward Linear Mixture MDPs of Bounded Span](https://arxiv.org/abs/2410.14992)
+Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
 *In Submission, 2024*
 1. [A Primal-Dual Algorithm for Offline Constrained Reinforcement Learning with Linear MDPs](https://arxiv.org/abs/2402.04493)
 **Kihyuk Hong**, Ambuj Tewari
