@@ -54,13 +54,13 @@ Teaching
 
 Education
 ======
-- PhD Statistics. University of Michigan.
-- MS Statistics. Stanford University.
-- BS Biomedical Engineering & Applied Math. Johns Hopkins University.
+- PhD Statistics. University of Michigan. 2020 - current.
+- MS Statistics. Stanford University. 2008 - 2010.
+- BS Biomedical Engineering & Applied Math. Johns Hopkins University. 2004 - 2008.
 
 Professional Experience
 ======
-- Machine Learning Enigineer. Naver. Nov2013 - Apr 2020.
+- Machine Learning Enigineer. Naver. Nov 2013 - Apr 2020.
 - Software Engineer. Meta. Aug 2010 - Nov 2013.
 
 Services
