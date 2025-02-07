@@ -13,11 +13,9 @@ My research interests are broadly in design and analysis of algorithms for seque
 
 Publications
 ======
-<!-- Awards
 1. A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs
 **Kihyuk Hong**, Ambuj Tewari
 *In Submission, 2025*
--->
 1. [Reinforcement Learning for Infinite-Horizon Average-Reward Linear MDPs via Approximation by Discounted-Reward MDPs](https://arxiv.org/abs/2405.15050)
 **Kihyuk Hong**, Woojin Chae, Yufan Zhang, Dabeen Lee, Ambuj Tewari
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2025*
@@ -36,6 +34,7 @@ Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
 
 Talks
 ======
+1. Invited Talk, Stanford University. Computer Science Department. Feb 2025.
 1. University of Michigan. Statistics Department Seminar. Dec 2024.
 1. An algorithm for infinite-horizon average reward RL with linear MDPs. RL Theory Workshop. Jun 2024.
 1. Introduction to reinforcement learning, guest lecture for STATS 503, University of Michigan. May 2023.
@@ -67,12 +66,10 @@ Professional Experience
 
 Services
 ======
-**Conference Reviewer**
-- International Conference on Artificial Intelligence and Statistics (AISTATS): 2022, 2023, 2024
-
-**Journal Reviewer**
-- Journal of Machine Learning Research (JMLR) : 1 time.
-- Statistical Science : 2 times.
+**Reviewer**
+- International Conference on Artificial Intelligence and Statistics (AISTATS)
+- Journal of Machine Learning Research (JMLR)
+- Statistical Science
 
 **Organizer**
 - Department Representative, Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS), University of Michigan. 2023.
