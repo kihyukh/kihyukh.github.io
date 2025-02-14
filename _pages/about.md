@@ -9,7 +9,7 @@ redirect_from:
 
 I am a final-year PhD student in the **Statistics Department** at the **University of Michigan** advised by **Ambuj Tewari**. Previously, I worked on recommendation systems and search engines as a machine learning engineer in the industry.
 
-My research interests are broadly in design and analysis of algorithms for sequential decision making under uncertainty. Specific areas of interest include: non-stationary bandits, offline reinforcement learning, constrained reinforcement learning. Currently, I am interested in preference learning and preference aggregation in the context of RLHF.
+My research interests are broadly in design and analysis of algorithms for sequential decision making under uncertainty. I have worked on problems including non-stationary bandits, offline reinforcement learning, constrained reinforcement learning.
 
 Publications
 ======
