@@ -11,6 +11,9 @@ I am a final-year PhD student in the **Statistics Department** at the **Universi
 
 My research interests are broadly in design and analysis of algorithms for sequential decision making under uncertainty. I have worked on problems including non-stationary bandits, offline reinforcement learning, constrained reinforcement learning.
 
+
+Outside of work, I enjoy running and playing the piano.
+
 Publications
 ======
 1. A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs
