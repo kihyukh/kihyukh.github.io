@@ -16,6 +16,9 @@ Outside of work, I enjoy running and playing the piano.
 
 Publications
 ======
+1. Offline Constrained Reinforcement Learning with Arbitrary Data Distributions under Partial Coverage
+**Kihyuk Hong**, Ambuj Tewari
+*In Preparation, 2025*
 1. A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs
 **Kihyuk Hong**, Ambuj Tewari
 *In Submission, 2025*
