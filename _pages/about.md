@@ -19,7 +19,7 @@ Publications
 1. Offline Constrained Reinforcement Learning with Arbitrary Data Distributions under Partial Coverage
 **Kihyuk Hong**, Ambuj Tewari
 *In Preparation, 2025*
-1. A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs
+1. [A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs](https://arxiv.org/abs/2504.11997)
 **Kihyuk Hong**, Ambuj Tewari
 *In Submission, 2025*
 1. [Reinforcement Learning for Infinite-Horizon Average-Reward Linear MDPs via Approximation by Discounted-Reward MDPs](https://arxiv.org/abs/2405.15050)
