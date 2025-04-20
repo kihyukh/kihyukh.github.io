@@ -73,6 +73,7 @@ Professional Experience
 Services
 ======
 **Reviewer**
+- Advances in Neural Information Processing Systems (NeurIPS)
 - International Conference on Artificial Intelligence and Statistics (AISTATS)
 - Journal of Machine Learning Research (JMLR)
 - Statistical Science
