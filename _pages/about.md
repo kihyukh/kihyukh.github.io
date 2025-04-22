@@ -40,6 +40,8 @@ Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
 
 Talks
 ======
+1. Invited Talk, KAIST. IOE Department. May 2025 (expected).
+1. Invited Talk, University of Washington. Computer Science Department. Apr 2025.
 1. Invited Talk, Stanford University. Computer Science Department. Feb 2025.
 1. University of Michigan. Statistics Department Seminar. Dec 2024.
 1. An algorithm for infinite-horizon average reward RL with linear MDPs. RL Theory Workshop. Jun 2024.
