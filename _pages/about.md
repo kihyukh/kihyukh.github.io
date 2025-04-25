@@ -85,6 +85,8 @@ Services
 
 <!-- Awards
 ======
+- Departmental Outstanding Graduate Student Instructor Award. University of Michigan. 2025
+- Outstanding Dissertation Award. University of Michigan. 2025
 - Outstanding PhD, Statistics Department, University of Michigan. 2021
 - Samsung scholarship (full scholarship $100,000) for master’s studies. 2008
 - Honorable mention in Putnam Math Competition. 2007
