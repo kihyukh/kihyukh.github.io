@@ -83,7 +83,7 @@ Services
 **Organizer**
 - Department Representative, Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS), University of Michigan. 2023.
 
-<!-- Awards
+Awards
 ======
 - Departmental Outstanding Graduate Student Instructor Award. University of Michigan. 2025
 - Outstanding Dissertation Award. University of Michigan. 2025
@@ -93,4 +93,4 @@ Services
 - The Mathematical Modeling Competition Prize, Johns Hopkins University. 2007
 - 1st place in Johns Hopkins ACM programming contest, Johns Hopkins University. 2006, 2007
 - Samsung scholarship (full scholarship $200,000) for undergraduate studies. 2004
-- 1st place in Korean Math Olympiad. 2002 -->
+- 1st place in Korean Math Olympiad. 2002
