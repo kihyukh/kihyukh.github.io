@@ -21,7 +21,7 @@ Publications
 *In Preparation, 2025*
 1. [A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs](https://arxiv.org/abs/2504.11997)
 **Kihyuk Hong**, Ambuj Tewari
-*In Submission, 2025*
+*International Conference on Machine Learning (ICML), 2025*
 1. [Reinforcement Learning for Infinite-Horizon Average-Reward Linear MDPs via Approximation by Discounted-Reward MDPs](https://arxiv.org/abs/2405.15050)
 **Kihyuk Hong**, Woojin Chae, Yufan Zhang, Dabeen Lee, Ambuj Tewari
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2025*
