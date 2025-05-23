@@ -39,6 +39,8 @@ Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
 **Kihyuk Hong**, Yuhang Li, Ambuj Tewari
 *International Conference on Artificial Intelligence and Statistics (AISTATS), 2023*
 
+(* indicates equal contributions)
+
 Talks
 ======
 1. Invited Talk, KAIST. IOE Department. May 2025 (expected).
