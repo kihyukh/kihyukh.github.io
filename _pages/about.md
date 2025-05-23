@@ -17,7 +17,7 @@ Outside of work, I enjoy running and playing the piano.
 Publications
 ======
 1. [Generator-Mediated Bandits: Thompson Sampling for GenAI-Powered Adaptive Interventions](https://arxiv.org/abs/2505.16311)
-Marc Brooks \*, Gabriel Durham \*, **Kihyuk Hong** \*, Ambuj Tewari
+Marc Brooks\*, Gabriel Durham\*, **Kihyuk Hong**\*, Ambuj Tewari
 *In Submission, 2025*
 1. Offline Constrained Reinforcement Learning with Arbitrary Data Distributions under Partial Coverage
 **Kihyuk Hong**, Ambuj Tewari
@@ -45,7 +45,7 @@ Woojin Chae, **Kihyuk Hong**, Yufan Zhang, Ambuj Tewari, Dabeen Lee
 
 Talks
 ======
-1. Invited Talk, KAIST. IOE Department. May 2025 (expected).
+1. Invited Talk, KAIST. ISE Department. May 2025.
 1. Invited Talk, University of Washington. Computer Science Department. Apr 2025.
 1. Invited Talk, Stanford University. Computer Science Department. Feb 2025.
 1. University of Michigan. Statistics Department Seminar. Dec 2024.
