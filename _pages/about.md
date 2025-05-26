@@ -19,7 +19,7 @@ Publications
 1. [Generator-Mediated Bandits: Thompson Sampling for GenAI-Powered Adaptive Interventions](https://arxiv.org/abs/2505.16311)
 Marc Brooks\*, Gabriel Durham\*, **Kihyuk Hong**\*, Ambuj Tewari
 *In Submission, 2025*
-1. Offline Constrained Reinforcement Learning with Arbitrary Data Distributions under Partial Coverage
+1. [Offline Constrained Reinforcement Learning with Arbitrary Data Distributions under Partial Coverage](https://arxiv.org/abs/2505.17506)
 **Kihyuk Hong**, Ambuj Tewari
 *In Submission, 2025*
 1. [A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs](https://arxiv.org/abs/2504.11997)
